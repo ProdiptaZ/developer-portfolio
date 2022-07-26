@@ -41,3 +41,8 @@ p {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+
+section {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
